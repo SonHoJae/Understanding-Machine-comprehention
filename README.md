@@ -23,3 +23,5 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 [1]  (NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE)
 
 <hr/>
+
+## 2. Reading comprehension style question answering with [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](https://www.microsoft.com/en-us/research/publication/mrc/)
