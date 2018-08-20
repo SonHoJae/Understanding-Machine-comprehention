@@ -26,3 +26,11 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 <hr/>
 
 ## 2. Reading comprehension style question answering with [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS_2017](https://www.microsoft.com/en-us/research/publication/mrc/)
+
+## Reference
+> 1. [Bi-directional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603)
+> 2. [Learning To Align And Translate](https://image.slidesharecdn.com/summarizationforh2omeetup12sep2017final-170918200049/95/the-magic-of-text-summarization-using-deep-networks-9-638.jpg?cb=1513351713 "Learning To Align And Translate")
+> 3. [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS_2017](https://www.microsoft.com/en-us/research/publication/mrc/)
+> 4. [Understanding R-Net: Microsoft’s ‘superhuman’ reading AI](https://codeburst.io/understanding-r-net-microsofts-superhuman-reading-ai-23ff7ededd96)
+> 5. [NMT Concepts and Parameters_sendtex_Youtube](https://www.youtube.com/watch?v=gFxiQXnt9w4)
+> 6. [Lecture 16: Dynamic Neural Networks for Question Answering](https://www.youtube.com/watch?v=T3octNTE7Is)
