@@ -21,3 +21,5 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 
 ### Reference
 [1] Although most of the previous works used to encode a variable-length input sentence into a fixed-length vector, it is not necessary, and even it may be beneficial to have a variable-length vector, as we will show later (NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE)
+
+<hr/>
