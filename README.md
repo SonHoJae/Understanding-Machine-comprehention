@@ -3,7 +3,7 @@
 In this repository, I would like to summarize couple papers to understand 
 [Bi-directional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603).
 ## 1. Understanding "Attention mechanism" with 
-[Neural Machine Translation by Jointly Learning to Align and Translate_2014](https://arxiv.org/abs/1409.0473)
+## [Neural Machine Translation by Jointly Learning to Align and Translate_2014](https://arxiv.org/abs/1409.0473)
 
 ### (1) Motivation
 #### It's not possible to convey sentence weights to target with fixed-vector instead, it suggests to search particular hidden states to influence translation parts
@@ -27,4 +27,4 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 <hr/>
 
 ## 2. Reading comprehension style question answering with 
-[R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](https://www.microsoft.com/en-us/research/publication/mrc/)
+## [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](https://www.microsoft.com/en-us/research/publication/mrc/)
