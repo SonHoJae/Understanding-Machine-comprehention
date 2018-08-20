@@ -25,4 +25,4 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 
 <hr/>
 
-## 2. Reading comprehension style question answering with [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS_2017] (https://www.microsoft.com/en-us/research/publication/mrc/)
+## 2. Reading comprehension style question answering with [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS_2017](https://www.microsoft.com/en-us/research/publication/mrc/)
