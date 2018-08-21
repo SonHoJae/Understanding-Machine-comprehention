@@ -36,3 +36,4 @@ successfully used recently in speech recognition (see, e.g., Graves et al., 2013
 > 6. [CS224D_Lecture 16: Dynamic Neural Networks for Question Answering](https://www.youtube.com/watch?v=T3octNTE7Is)
 > 7. [Challenges of reproducing R-NET neural network using Keras](http://yerevann.github.io/2017/08/25/challenges-of-reproducing-r-net-neural-network-using-keras/)
 > 8. [CS224D_Lecture 9: Machine Translation and Advanced Recurrent LSTMs and GRUs](https://www.youtube.com/watch?v=QuELiw8tbx8&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=10&t=0s)
+> 9. [CS224D_Lecture 3 | GloVe: Global Vectors for Word Representation](https://www.youtube.com/watch?v=ASn7ExxLZws&index=3&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
